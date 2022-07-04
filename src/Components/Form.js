@@ -7,7 +7,7 @@ import DataGrab from "./DataGrab.js"
 const Form = () => {
     const [entry, setEntry] = useState('');
     const [query, setQuery] = useState('');
-    const key = 'AIzaSyBtT7_Dcm3TG-gsgniirfhMOMyGp96Ase8'
+    const key = 
     const [vidList, setVidList] = useState([]);
     const [v, setV] = useState(0);
     
