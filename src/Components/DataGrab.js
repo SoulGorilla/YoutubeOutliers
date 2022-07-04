@@ -4,7 +4,7 @@ const DataGrab = (props) => {
 
   const [entry, setEntry] = useState('');
   let query = props.query
-    const key = 'AIzaSyBtT7_Dcm3TG-gsgniirfhMOMyGp96Ase8'
+    const key = 
   let vidList = props.vidList
   
     
